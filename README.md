@@ -17,11 +17,10 @@
     連結:https://github.com/jeremyhsieh1222/Fintech/blob/main/HW1/%E5%BF%83%E5%BE%971
     
     繳交時間:2021/03/18
-## [作業二]() 
-    標題:
-    內容:
-    連結:
-    繳交時間:
+## [作業二](https://youtu.be/lKcGl9i0J8c) 
+    標題:建置LAMP
+    連結:https://youtu.be/lKcGl9i0J8c
+    繳交時間:2021/03/26
 ## [作業三]() 
     標題:
     內容:
