@@ -21,7 +21,9 @@
     標題:建置LAMP
     連結:https://youtu.be/lKcGl9i0J8c
     繳交時間:2021/03/26
-    [![圖片 ALT 文字放在這裡](http://img.youtube.com/vi/lKcGl9i0J8c/0.jpg)](http://www.youtube.com/watch?v=lKcGl9i0J8c)
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=lKcGl9i0J8c
+" target="_blank"><img src="http://img.youtube.com/vi/lKcGl9i0J8c/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a
 ## [作業三]() 
     標題:
     內容:
