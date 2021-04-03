@@ -21,9 +21,9 @@
     標題:建置LAMP
     連結:https://youtu.be/lKcGl9i0J8c
     繳交時間:2021/03/26
-## [作業三]() 
+## [作業三](https://www.youtube.com/watch?v=3JsMR5bvDKU) 
     標題:使用AWS S3及AWS Amplify架設靜態網站
-    連結:
+    連結:https://www.youtube.com/watch?v=3JsMR5bvDKU
     繳交時間:2021/04/03
 ## [作業四]() 
     標題:
