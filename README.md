@@ -44,6 +44,9 @@
 #### [第一階段匯報](https://youtu.be/wZrddTa8WFM)
      連結:https://youtu.be/wZrddTa8WFM
      日期:2021/4/17
+#### [第二階段匯報](https://drive.google.com/file/d/1Eicck5JtmhEiHDmMlz3dB9Q6PA9mRqBE/view?usp=sharing)
+     連結:https://drive.google.com/file/d/1Eicck5JtmhEiHDmMlz3dB9Q6PA9mRqBE/view?usp=sharing
+     日期:2021/5/9
 ### 專案作品原址碼:
 ### 專案作品展示影片連結:
 ### 專案作品投影片:
