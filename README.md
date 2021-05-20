@@ -33,11 +33,10 @@
     標題:Create a Database using Amazon RDS
     連結:https://youtu.be/Hxe5X8SnCKQ
     繳交時間:2021/05/02
-## [作業六]() 
-    標題:
-    內容:
-    連結:
-    繳交時間:    
+## [作業六](https://youtu.be/VaJ5F_614tM) 
+    標題:個人進度匯報
+    連結:https://youtu.be/VaJ5F_614tM
+    繳交時間:2021/05/21    
 ## 專案
 ### 主題:野村投信主題一 運用熱門主題及字組提升行銷轉換成率之探索性研究
 ### 階段性結果產出紀錄
